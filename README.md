@@ -61,5 +61,5 @@
 
 ## 作成者
 
-**森永 勇介（Yusuke Morinaga）**  
+**森永 悠介（Yusuke Morinaga）**  
 GitHub: [@yusuke4386752](https://github.com/yusuke4386752)
